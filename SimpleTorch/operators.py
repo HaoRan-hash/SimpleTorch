@@ -1,5 +1,5 @@
 import numpy as np
-from SimpliedTorch import Tensor, global_state
+from SimpleTorch import Tensor, global_state
 
 
 class Operator:

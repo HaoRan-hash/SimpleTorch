@@ -1,7 +1,7 @@
 import numpy as np
 import math
 from .operators import LinearFunction, Operator
-from SimpliedTorch import Tensor
+from SimpleTorch import Tensor
 
 
 class Module:
